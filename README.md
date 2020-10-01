@@ -1,3 +1,6 @@
+# ZeroThink-01
+![gif image](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif)
+
 # My Status
 ![github stats](https://github-readme-stats.vercel.app/api?username=ZeroThink-01&show_icons=true&theme=radical)
 
