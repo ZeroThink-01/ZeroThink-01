@@ -6,6 +6,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroThink-01&layout=compact&theme=radical)
 
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/ZeroThink-01)](https://github.com/ZeroThink-01) 
+
 # Discord-Bot
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroThink-01&repo=X-Gama&theme=radical)](https://github.com/ZeroThink-01/X-Gama)
 [![ReadMe Card 2](https://github-readme-stats.vercel.app/api/pin/?username=ZeroThink-01&repo=X-GamaTR&theme=radical)](https://github.com/ZeroThink-01/X-GamaTR)
