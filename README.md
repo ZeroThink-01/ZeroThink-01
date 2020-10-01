@@ -17,3 +17,7 @@
 
 # Chess Polyglot Openning book
 [![ReadMe Card 4](https://github-readme-stats.vercel.app/api/pin/?username=ZeroThink-01&repo=CheckMateX&theme=radical)](https://github.com/ZeroThink-01/CheckMateX)
+
+# For Communication
+Discord= masterXpro7#2678
+Gmail= zerothinkyt@gmail.com
