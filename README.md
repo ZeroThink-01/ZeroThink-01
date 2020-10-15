@@ -17,5 +17,5 @@
 [![ReadMe Card 4](https://github-readme-stats.vercel.app/api/pin/?username=ZeroThink-01&repo=Xgama-Web&theme=radical)](https://github.com/ZeroThink-01/Xgama-Web)
 
 # For Communication
-```- Discord= masterXpro7#2678```
-```- Gmail= zerothinkyt@gmail.com
+- Discord= masterXpro7#2678
+- Gmail= zerothinkyt@gmail.com
