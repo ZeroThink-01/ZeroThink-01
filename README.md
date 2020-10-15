@@ -1,5 +1,5 @@
 # ZeroThink-01
-Hello! (Just a new) do programming from Python as a hobby.
+```Hello! (Just a new) do programming from Python as a hobby.```
 
 # ZeroThink-01
 ![gif image](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif)
@@ -17,5 +17,5 @@ Hello! (Just a new) do programming from Python as a hobby.
 [![ReadMe Card 4](https://github-readme-stats.vercel.app/api/pin/?username=ZeroThink-01&repo=Xgama-Web&theme=radical)](https://github.com/ZeroThink-01/Xgama-Web)
 
 # For Communication
-- Discord= masterXpro7#2678
-- Gmail= zerothinkyt@gmail.com
+```- Discord= masterXpro7#2678```
+```- Gmail= zerothinkyt@gmail.com
