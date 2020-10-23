@@ -9,6 +9,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroThink-01&theme=radical)
 
+![Status](https://metrics.lecoq.io/ZeroThink-01) 
+
 # Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroThink-01&repo=X-Gama&theme=radical)](https://github.com/ZeroThink-01/X-Gama)
 [![ReadMe Card 3](https://github-readme-stats.vercel.app/api/pin/?username=ZeroThink-01&repo=XXproy-Chess&theme=radical)](https://github.com/ZeroThink-01/XXproy-Chess)
