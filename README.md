@@ -1,5 +1,5 @@
 # ZeroThink-01
-```Hello! (Just a new) do programming from Python as a hobby.```
+```Hello!```
 
 # ZeroThink-01
 ![gif image](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif)
