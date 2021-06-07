@@ -8,5 +8,3 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=WhyChess&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhyChess&theme=radical)
-
-![Status](https://metrics.lecoq.io/WhyChess) 
