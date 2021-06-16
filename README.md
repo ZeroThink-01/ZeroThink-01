@@ -1,5 +1,6 @@
 # WhChess
 ```Hello!```
+I usually write projects in python and css, sometimes i use html, rarely JavaScript
 
 # WhChess
 ![gif image](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif)
